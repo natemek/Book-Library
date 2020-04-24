@@ -1,0 +1,6 @@
+framework module Pods_BookLibrary_tvOSTests {
+  umbrella header "Pods-BookLibrary-tvOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
